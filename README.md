@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Thor
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kravellas&show_icons=true&theme=dark">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kravellas&show_icons=true&theme=dark"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kravellas&layout=compact&theme=dark">
 
 ##
