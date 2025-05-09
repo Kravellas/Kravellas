@@ -1,4 +1,5 @@
 ## Olá! Eu sou o Thor
+-Estudo Engenharia da Computação
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kravellas&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kravellas&layout=compact&custom_title=Tecnologi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
